@@ -5,6 +5,6 @@ Research Question: How has antidepressant prescribing in England changed between
 ### Key Findings
 ## National Prescription Volume Trend 
 Prescription of antidepressants in England has increased every year from 2021 to 2025.
-The increase over 5 years was about 15%. Starting with 82.6 million in 2021, prescrptions rose to 94.69 million in 2025.
+The increase over 5 years was about 15%. Starting with 82.6 million in 2021, prescriptions rose to 94.69 million in 2025.
 
 ##
